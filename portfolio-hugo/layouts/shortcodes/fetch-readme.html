@@ -1,0 +1,7 @@
+{{ $url := .Get "url" }}
+{{ with resources.GetRemote $url }}
+    {{ .Content | markdownify }}
+{{ end }}
+
+<!-- GitHubのpublicリポジトリからmdを取ってくるためのもの -->
+<!-- 参考： https://gemini.google.com/share/f79090f5c2b6 -->

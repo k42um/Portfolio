@@ -1,0 +1,14 @@
+baseURL: https://example.org/
+locale: ja-jp
+title: My New Hugo Project
+
+theme: hugo-narrow
+
+defaultContentLanguage: ja
+
+module:
+  mounts:
+    - source: assets
+      target: assets
+    - source: themes/hugo-narrow/assets
+      target: assets
