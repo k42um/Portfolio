@@ -1,5 +1,5 @@
 (() => {
-  // ns-hugo-imp:/Users/kazuma/Documents/Github/kazuma/Portfolio/portfolio-hugo/themes/hugo-narrow/assets/js/gallery-lightbox.js
+  // ns-hugo-imp:/Users/kazuma/Documents/Github/kazuma/Portfolio/themes/hugo-narrow/assets/js/gallery-lightbox.js
   var GalleryLightbox = class {
     constructor(config = {}) {
       this.config = {
