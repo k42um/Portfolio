@@ -7,10 +7,9 @@ links:
   - name: "My portfolio"
     url: "/projects"
     icon: "projects"
-    description: "私が作った作品たちをご覧ください。"
+    description: "私が作ったものをご覧ください。"
   
 
 ---
 
 {{< fetch-readme url="https://raw.githubusercontent.com/k42um/k42um/main/README.md" >}}
-
