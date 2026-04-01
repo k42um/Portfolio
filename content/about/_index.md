@@ -7,7 +7,7 @@ links:
   - name: "My portfolio"
     url: "/projects"
     icon: "projects"
-    description: "私が作ったものをご覧ください。"
+    description: "私が作った作品・ものをご覧ください。"
   
 
 ---
