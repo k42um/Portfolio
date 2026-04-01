@@ -12,4 +12,4 @@ links:
 
 ---
 
-{{< fetch-readme url="https://raw.githubusercontent.com/k42um/k42um/main/README.md" >}}
+{{< fetch-readme url="https://raw.githubusercontent.com/k42um/k42um/main/README.md" skip="0">}}

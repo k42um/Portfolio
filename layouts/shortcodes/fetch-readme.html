@@ -1,6 +1,16 @@
 {{ $url := .Get "url" }}
+{{ $skip := .Get "skip" | default 0 | int }}
 {{ with resources.GetRemote $url }}
-    {{ .Content | markdownify }}
+    {{ $content := .Content }}
+    {{ if gt $skip 0 }}
+        {{ $lines := split $content "\n" }}
+        {{ $remaining := after $skip $lines }}
+        {{ $out := "" }}
+        {{ range $remaining }}{{ $out = printf "%s\n%s" $out . }}{{ end }}
+        {{ $out | markdownify }}
+    {{ else }}
+        {{ $content | markdownify }}
+    {{ end }}
 {{ end }}
 
 <!-- GitHubのpublicリポジトリからmdを取ってくるためのもの -->
