@@ -1,2 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Timeline Demo on Welcome to k42um Portfolio!</title><link>https://k42um.github.io/Portfolio/timeline/</link><description>Recent content in Timeline Demo on Welcome to k42um Portfolio!</description><generator>Hugo</generator><language>ja-JP</language><atom:link href="https://k42um.github.io/Portfolio/timeline/index.xml" rel="self" type="application/rss+xml"/><item><title>时间线示例</title><link>https://k42um.github.io/Portfolio/timeline/_index.zh-hans/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://k42um.github.io/Portfolio/timeline/_index.zh-hans/</guid><description>&lt;p&gt;这个示例展示了时间线模板如何把每个 &lt;code&gt;##&lt;/code&gt; 标题识别为一个时间线区块，同时仍然保持原生 Markdown 的写作体验。&lt;/p&gt;
-&lt;h2 id="最初规划"&gt;最初规划&lt;a href="#%e6%9c%80%e5%88%9d%e8%a7%84%e5%88%92" class="heading-anchor" aria-label="このセクションへのリンク"&gt;&lt;svg class="h-4 w-4" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"&gt;&lt;g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"&gt;&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/&gt;&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;我们先明确主题范围、收集参考案例，并梳理希望呈现给读者的整体体验。&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Timeline Demo on Welcome to k42um Portfolio!</title>
+    <link>http://localhost:1313/timeline/</link>
+    <description>Recent content in Timeline Demo on Welcome to k42um Portfolio!</description>
+    <generator>Hugo</generator>
+    <language>ja-JP</language>
+    <atom:link href="http://localhost:1313/timeline/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
