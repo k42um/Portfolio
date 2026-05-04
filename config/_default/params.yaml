@@ -1,9 +1,9 @@
 # Basic site info with SEO
-description: "A modern, clean, and minimal Hugo theme built with Tailwind CSS 4.0. Support custom themes, dark mode, and responsive design."
-keywords: ["Hugo", "Blog", "Theme", "Technology", "Programming"]
-defaultAuthor: "Hugo Narrow"
-language: "en"
-shortName: "Hugo Narrow" # PWA
+description: "Welcome to k42um (Kazuma Kurokawa)'s portfolio!"
+keywords: ["Portfolio", "Student", "Intern", "Technology", "Programming"]
+defaultAuthor: "Kazuma Kurokawa"
+language: "ja"
+shortName: "k42um's Portfolio" # PWA
 images:
   - "/images/og-default.avif"
 
@@ -13,10 +13,10 @@ favicon:
 
 # Author info
 author:
-  name: "Hugo Narrow"
-  title: "A Clean and Minimal Hugo Theme"
-  description: "Focused on content and user experience."
-  avatar: "/images/avatar.svg"
+  name: "Kazuma Kurokawa"
+  title: "Aspiring Student Engineer from Japan"
+  description: "筑波大学理工学群工学システム学類に所属する学生です。ものづくりに興味があり、日々面白いものや便利なものを作りたいと考えています。"
+  avatar: "/favicon.svg"
   social:
     - name: "GitHub"
       url: "https://github.com/k42um"
@@ -24,15 +24,12 @@ author:
     - name: "Twitter"
       url: "https://twitter.com/k42uma"
       icon: "twitter"
-    - name: "Email"
-      url: "mailto:s2411607@u.tsukuba.ac.jp"
-      icon: "email"
 
 # Header configuration (modularized)
 header:
   sticky: true # Enable sticky navigation bar
   logo:
-    image: "/images/logo.svg" # Logo path relative to static folder, leave empty to use site title first letter
+    image: "/favicon.svg" # Logo path relative to static folder, leave empty to use site title first letter
     link: "/" # Click to home page
   # UI Components Control (header controls)
   showThemeSwitch: true # Set to false to hide theme style switcher (palette icon)
@@ -113,7 +110,7 @@ post:
   relatedPostsCount: 3 # posts number
   license:
     show: true
-    author: "Hugo Narrow"
+    author: "Kazuma Kurokawa"
     name: "CC BY-NC-SA 4.0"
     description: "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Please attribute the source, use non-commercially, and maintain the same license."
     url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"

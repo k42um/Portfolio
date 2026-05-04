@@ -1,33 +1,39 @@
 main:
   - name: About me
     pageRef: /about
-    weight: 8
+    weight: 80
     params:
       icon: about
 
+  - name: Focus
+    pageRef: /focus
+    weight: 81
+    params:
+      icon: lightbulb
+
   - name: Portfolio
-    weight: 9
+    weight: 90
     pageRef: /projects
     params:
       icon: projects
 
   - name: Posts
     pageRef: /posts
-    weight: 10
+    weight: 100
     params:
       icon: posts
 
-  - name: Archives
-    pageRef: /archives
-    weight: 20
-    params:
-      icon: archive
+#  - name: Archives
+#    pageRef: /archives
+#    weight: 20
+#    params:
+#      icon: archive
 
-  # Example: parent item with dropdown submenu children
-  - name: More
-    weight: 30
-    params:
-      icon: layers
+#  # Example: parent item with dropdown submenu children
+#  - name: More
+#    weight: 30
+#    params:
+#      icon: layers
 
 #  - name: Categories
 #    weight: 1
@@ -82,22 +88,27 @@ footer:
 # footer social link
 social:
   - name: GitHub
-    url: https://github.com/username
+    url: https://github.com/k42um
     weight: 10
     params:
       icon: github
-  - name: Twitter
-    url: https://twitter.com/username
+  - name: X
+    url: https://twitter.com/k42uma
     weight: 20
     params:
-      icon: twitter
+      icon: X
   - name: LinkedIn
-    url: https://linkedin.com/in/username
+    url: https://linkedin.com/in/k42uma
     weight: 30
     params:
       icon: linkedin
-  - name: Email
-    url: mailto:your.email@example.com
+#  - name: Email
+#    url: mailto:your.email@example.com
+#    weight: 40
+#    params:
+#      icon: email
+  - name: Zenn
+    url: https://zenn.dev/k42uma
     weight: 40
     params:
-      icon: email
+      icon: Zenn

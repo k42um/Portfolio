@@ -1,4 +1,6 @@
 ---
 title: "Posts"
-description: "Here are all published articles, sorted by date in descending order."
+description: "私に関する投稿です！"
 ---
+
+私に関する投稿をまとめたページです！主に、実績や大きな出来事をまとめるようなページにしたいなと思っています。いろんなことに挑戦した証のようなページにできるといいなと思っています！

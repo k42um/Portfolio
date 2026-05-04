@@ -1,6 +1,6 @@
 ---
 title: "Portfolio"
-description: "Explore my portfolio of projects, from web development to AI applications"
+description: "私が作った作品・モノです！"
 ---
 
-Welcome to my projects showcase! Here you'll find a collection of my work, including web applications, open-source contributions, and experimental projects.
+私のポートフォリオへようこそ！私が日常生活や大学での活動において作った作品やモノを紹介するためのページです。ソフトウェアからハードウェアまで幅広くものづくりをすることが大好きです！
