@@ -2,8 +2,9 @@ baseURL: https://k42uma.com
 languageCode: ja
 defaultContentLanguage: ja
 defaultContentLanguageInSubdir: false
-title: Welcome to k42um Portfolio!
+title: Welcome to k42uma's Portfolio!
 theme: "hugo-narrow"
+# k42uma を基本的には正式な記法としよう！
 
 hasCJKLanguage: true
 enableEmoji: true

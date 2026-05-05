@@ -1,9 +1,9 @@
 # Basic site info with SEO
-description: "Welcome to k42um (Kazuma Kurokawa)'s portfolio!"
+description: "Welcome to k42uma (Kazuma Kurokawa)'s portfolio!"
 keywords: ["Portfolio", "Student", "Intern", "Technology", "Programming"]
 defaultAuthor: "Kazuma Kurokawa"
 language: "ja"
-shortName: "k42um's Portfolio" # PWA
+shortName: "k42uma's Portfolio" # PWA
 images:
   - "/images/og-default.avif"
 
