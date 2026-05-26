@@ -5,11 +5,11 @@ main:
     params:
       icon: about
 
-  - name: Focus
-    pageRef: /focus
-    weight: 81
-    params:
-      icon: lightbulb
+#  - name: Focus
+#    pageRef: /focus
+#    weight: 81
+#    params:
+#      icon: lightbulb
 
   - name: Portfolio
     weight: 90
