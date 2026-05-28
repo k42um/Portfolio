@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CubeSat on Welcome to k42uma&#39;s Portfolio!</title>
+    <link>http://localhost:1313/tags/cubesat/</link>
+    <description>Recent content in CubeSat on Welcome to k42uma&#39;s Portfolio!</description>
+    <generator>Hugo</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Wed, 27 May 2026 14:30:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/cubesat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CubeSatにおける通信システムの開発</title>
+      <link>http://localhost:1313/projects/cubesat-radio-system/</link>
+      <pubDate>Wed, 27 May 2026 14:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/projects/cubesat-radio-system/</guid>
+      <description>超小型人工衛星TSUKUTO（筑波大学「結」プロジェクト）が開発中のTSUKUTOの通信システムの設計・実装を行いました。</description>
+    </item>
+  </channel>
+</rss>

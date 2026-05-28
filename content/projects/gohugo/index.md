@@ -5,7 +5,7 @@ draft: false
 slug: hugo-framework
 description: "The world's fastest framework for building websites, written in Go"
 summary: "A fast and flexible static site generator built with Go, powering thousands of websites worldwide."
-featured: true
+featured: false
 tags:
   - Go
   - Hugo

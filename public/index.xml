@@ -6,14 +6,42 @@
     <description>Recent content in Home on Welcome to k42uma&#39;s Portfolio!</description>
     <generator>Hugo</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Fri, 26 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 14:30:00 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CubeSatにおける通信システムの開発</title>
+      <link>http://localhost:1313/projects/cubesat-radio-system/</link>
+      <pubDate>Wed, 27 May 2026 14:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/projects/cubesat-radio-system/</guid>
+      <description>超小型人工衛星TSUKUTO（筑波大学「結」プロジェクト）が開発中のTSUKUTOの通信システムの設計・実装を行いました。</description>
+    </item>
+    <item>
+      <title>LoRa通信ハンディの開発</title>
+      <link>http://localhost:1313/projects/project-mtg-automation/</link>
+      <pubDate>Wed, 27 May 2026 14:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/projects/project-mtg-automation/</guid>
+      <description>筑波大学「結」プロジェクトで超小型人工衛星TSUKUTOを開発するためのクラウドファンディングを実施し、2,316,000円の調達に成功しました。</description>
+    </item>
     <item>
       <title>Shortcodes</title>
       <link>http://localhost:1313/posts/shortcodes/</link>
       <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/shortcodes/</guid>
       <description>&lt;p&gt;This page demonstrates all available shortcodes in the Hugo Narrow theme.&lt;/p&gt;&#xA;&lt;h2 id=&#34;hugo-built-in-shortcodes&#34;&gt;Hugo Built-in Shortcodes&lt;a href=&#34;#hugo-built-in-shortcodes&#34; class=&#34;heading-anchor&#34; aria-label=&#34;このセクションへのリンク&#34;&gt;&lt;svg class=&#34;h-4 w-4&#34; aria-hidden=&#34;true&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;g fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;2&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34;/&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Hugo provides several &lt;a&#xA;    href=&#34;https://gohugo.io/shortcodes/&#34;target=&#34;_blank&#34;&#xA;    class=&#34;inline-flex items-center gap-1&#34;&#xA;  &gt;built-in shortcodes&lt;svg class=&#34;h-3 w-3 flex-shrink-0&#34; id=&#34;external-link&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;2&#34; d=&#34;M15 3h6v6m-11 5L21 3m-3 10v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6&#34;/&gt;&lt;/svg&gt;&#xA;  &lt;/a&gt;. The content of these shortcodes is subject to change without notice, so you can visit the official page for detailed usage instructions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>プロジェクトにおけるMTGの議事録自動生成システムの開発</title>
+      <link>http://localhost:1313/projects/project-mtg-automation/</link>
+      <pubDate>Thu, 09 Oct 2025 14:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/projects/project-mtg-automation/</guid>
+      <description>筑波大学「結」プロジェクトでMTGの議事録作成と全体告知を自動化するシステムの開発を行いました。</description>
+    </item>
+    <item>
+      <title>CubeSat開発のためのクラウドファンディングでの230万円調達</title>
+      <link>http://localhost:1313/projects/project-mtg-automation/</link>
+      <pubDate>Tue, 23 Jul 2024 14:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/projects/project-mtg-automation/</guid>
+      <description>筑波大学「結」プロジェクトで超小型人工衛星TSUKUTOを開発するためのクラウドファンディングを実施し、2,316,000円の調達に成功しました。</description>
     </item>
     <item>
       <title>Hugo - The World&#39;s Fastest Framework</title>

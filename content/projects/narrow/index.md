@@ -5,7 +5,7 @@ draft: false
 slug: hugo-narrow-theme
 description: "A modern, clean, and minimal Hugo theme built with Tailwind CSS 4.0"
 summary: "A modern Hugo theme with multiple color schemes, dark mode support, and responsive design built on TailwindCSS 4."
-featured: true
+featured: false
 tags:
   - Hugo
   - Tailwind CSS
