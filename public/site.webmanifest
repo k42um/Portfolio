@@ -5,7 +5,7 @@
     "technology",
     "education"
   ],
-  "description": "Welcome to k42um (Kazuma Kurokawa)'s portfolio!",
+  "description": "Welcome to k42uma (Kazuma Kurokawa)'s portfolio!",
   "dir": "ltr",
   "display": "standalone",
   "icons": [
@@ -16,10 +16,10 @@
     }
   ],
   "lang": "ja",
-  "name": "Welcome to k42um Portfolio!",
+  "name": "Welcome to k42uma's Portfolio!",
   "orientation": "portrait-primary",
   "scope": "/",
-  "short_name": "k42um's Portfolio",
+  "short_name": "k42uma's Portfolio",
   "start_url": "/",
   "theme_color": "#09090b"
 }

@@ -121,18 +121,6 @@
                 href="http://localhost:1313/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
-  </url><url>
     <loc>http://localhost:1313/focus/</loc>
-  </url><url>
-    <loc>http://localhost:1313/timeline/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/web-%E5%BC%80%E5%8F%91/</loc>
-  </url><url>
-    <loc>http://localhost:1313/categories/%E5%9B%BE%E5%BA%93/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E5%9B%BE%E5%BA%93/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE/</loc>
   </url>
 </urlset>
