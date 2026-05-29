@@ -30,6 +30,13 @@
       <description></description>
     </item>
     <item>
+      <title>Funding</title>
+      <link>http://localhost:1313/tags/funding/</link>
+      <pubDate>Fri, 22 May 2026 14:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/funding/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Shortcode</title>
       <link>http://localhost:1313/tags/shortcode/</link>
       <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
@@ -72,24 +79,10 @@
       <description></description>
     </item>
     <item>
-      <title>Coding</title>
-      <link>http://localhost:1313/tags/coding/</link>
+      <title>Cram School</title>
+      <link>http://localhost:1313/tags/cram-school/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/coding/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Managimant</title>
-      <link>http://localhost:1313/tags/managimant/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/managimant/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Radio Communication</title>
-      <link>http://localhost:1313/tags/radio-communication/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/radio-communication/</guid>
+      <guid>http://localhost:1313/tags/cram-school/</guid>
       <description></description>
     </item>
   </channel>

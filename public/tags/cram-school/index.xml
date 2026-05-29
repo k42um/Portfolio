@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cram School on Welcome to k42uma&#39;s Portfolio!</title>
+    <link>http://localhost:1313/tags/cram-school/</link>
+    <description>Recent content in Cram School on Welcome to k42uma&#39;s Portfolio!</description>
+    <generator>Hugo</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Sun, 01 Mar 2026 14:30:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/cram-school/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>教え子3名が筑波大に合格（2025年度）</title>
+      <link>http://localhost:1313/projects/cram-school-2025/</link>
+      <pubDate>Sun, 01 Mar 2026 14:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/projects/cram-school-2025/</guid>
+      <description>塾講師として物理・化学を指導した高校3年生が筑波大学に合格しました。</description>
+    </item>
+  </channel>
+</rss>

@@ -1,5 +1,5 @@
 ---
-title: "CubeSatにおける通信システムの開発"
+title: "CubeSatの通信システムの開発"
 date: 2026-05-27T14:30:00+08:00
 draft: false
 slug: cubesat-radio-system

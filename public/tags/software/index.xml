@@ -9,11 +9,18 @@
     <lastBuildDate>Wed, 27 May 2026 14:30:00 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/software/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>CubeSatにおける通信システムの開発</title>
+      <title>CubeSatの通信システムの開発</title>
       <link>http://localhost:1313/projects/cubesat-radio-system/</link>
       <pubDate>Wed, 27 May 2026 14:30:00 +0800</pubDate>
       <guid>http://localhost:1313/projects/cubesat-radio-system/</guid>
       <description>超小型人工衛星TSUKUTO（筑波大学「結」プロジェクト）が開発中のTSUKUTOの通信システムの設計・実装を行いました。</description>
+    </item>
+    <item>
+      <title>MTGの議事録自動生成システムの開発</title>
+      <link>http://localhost:1313/projects/project-mtg-automation/</link>
+      <pubDate>Thu, 09 Oct 2025 14:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/projects/project-mtg-automation/</guid>
+      <description>筑波大学「結」プロジェクトでMTGの議事録作成と全体告知を自動化するシステムの開発を行いました。</description>
     </item>
   </channel>
 </rss>

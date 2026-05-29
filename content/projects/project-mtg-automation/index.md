@@ -1,5 +1,5 @@
 ---
-title: "プロジェクトにおけるMTGの議事録自動生成システムの開発"
+title: "MTGの議事録自動生成システムの開発"
 date: 2025-10-09T14:30:00+08:00
 draft: false
 slug: project-mtg-automation
