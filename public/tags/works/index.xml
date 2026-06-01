@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Works on Welcome to k42uma&#39;s Portfolio!</title>
+    <link>http://localhost:1313/tags/works/</link>
+    <description>Recent content in Works on Welcome to k42uma&#39;s Portfolio!</description>
+    <generator>Hugo</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Wed, 27 May 2026 14:30:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/works/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CubeSatの通信システムの開発</title>
+      <link>http://localhost:1313/projects/cubesat-radio-system/</link>
+      <pubDate>Wed, 27 May 2026 14:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/projects/cubesat-radio-system/</guid>
+      <description>超小型人工衛星TSUKUTO（筑波大学「結」プロジェクト）が開発中のTSUKUTOの通信システムの設計・実装を行いました。</description>
+    </item>
+    <item>
+      <title>LoRa通信ハンディの開発</title>
+      <link>http://localhost:1313/projects/lora-handy/</link>
+      <pubDate>Fri, 22 May 2026 14:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/projects/lora-handy/</guid>
+      <description>LoRa通信をいつでもどこでも出来るように、LoRaのハンディ（手持ち型の通信機）を開発しました。</description>
+    </item>
+    <item>
+      <title>履修情報から時間割をカレンダーに追加するツールの開発</title>
+      <link>http://localhost:1313/projects/twins-to-calendar/</link>
+      <pubDate>Mon, 13 Apr 2026 14:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/projects/twins-to-calendar/</guid>
+      <description>筑波大学の履修登録ツールTwinsの情報を元に、カレンダーアプリへ時間割情報を登録するChrome拡張機能を開発しました。</description>
+    </item>
+    <item>
+      <title>マウスの自作</title>
+      <link>http://localhost:1313/projects/mouse-diy/</link>
+      <pubDate>Wed, 18 Mar 2026 14:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/projects/mouse-diy/</guid>
+      <description>パソコンで使用するマウスを自作しています。</description>
+    </item>
+    <item>
+      <title>Alexaから温度・湿度を計測するシステムの開発</title>
+      <link>http://localhost:1313/projects/alexa-temp-humid/</link>
+      <pubDate>Sun, 18 Jan 2026 14:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/projects/alexa-temp-humid/</guid>
+      <description>AlexaやWEBページから部屋の温度や湿度を取得するためのシステムを開発しました。</description>
+    </item>
+    <item>
+      <title>電子ペーパーに天気予報を表示するシステムの開発</title>
+      <link>http://localhost:1313/projects/weather-wpaper/</link>
+      <pubDate>Sun, 18 Jan 2026 14:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/projects/weather-wpaper/</guid>
+      <description>電子ペーパーに天気予報や予想気温を表示するためのシステムを開発しました。</description>
+    </item>
+    <item>
+      <title>衛星通信補助ツールの作成</title>
+      <link>http://localhost:1313/projects/passvu/</link>
+      <pubDate>Tue, 25 Nov 2025 14:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/projects/passvu/</guid>
+      <description>人工衛星との通信のために、通信可能な時間や方角等の必要な情報をユーザに伝えるWEBツールを開発しました。</description>
+    </item>
+    <item>
+      <title>MTGの議事録自動生成システムの開発</title>
+      <link>http://localhost:1313/projects/project-mtg-automation/</link>
+      <pubDate>Thu, 09 Oct 2025 14:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/projects/project-mtg-automation/</guid>
+      <description>筑波大学「結」プロジェクトでMTGの議事録作成と全体告知を自動化するシステムの開発を行いました。</description>
+    </item>
+    <item>
+      <title>つくばロボットコンテスト2024での総合2位入賞</title>
+      <link>http://localhost:1313/projects/tsukuba-robot-contest-2024/</link>
+      <pubDate>Wed, 06 Nov 2024 14:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/projects/tsukuba-robot-contest-2024/</guid>
+      <description>筑波大学の授業であるつくばロボットコンテスト2024において、総合2位に入賞しました。</description>
+    </item>
+  </channel>
+</rss>

@@ -7,14 +7,22 @@ description: "筑波大学の授業であるつくばロボットコンテスト
 summary: "筑波大学の授業であるつくばロボットコンテスト2024において、総合2位に入賞しました。"
 featured: false
 tags:
+  - Works
   - Class
   - Software
   - Hardware
-  - Circuit
 categories:
   - projects
 cover: "robot.JPG"
 status: "completed"
 ---
 
-あ
+## Overview
+
+## Motivation
+
+## Development
+
+## Skill Sets
+
+## Outcome

@@ -7,6 +7,7 @@ description: "電子ペーパーに天気予報や予想気温を表示するた
 summary: "電子ペーパーに天気予報や予想気温を表示するためのシステムを開発しました。"
 featured: false
 tags:
+  - Works
   - Daily Life
   - Software
   - Hardware
@@ -17,4 +18,12 @@ cover: "kari.JPG"
 status: "completed"
 ---
 
-あ
+## Overview
+
+## Motivation
+
+## Development
+
+## Skill Sets
+
+## Outcome

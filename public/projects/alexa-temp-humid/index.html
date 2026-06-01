@@ -14,7 +14,7 @@
 />
 <meta
   name="keywords"
-  content="Daily Life, Software, Hardware"
+  content="Works, Daily Life, Software, Hardware"
 />
 <meta
   name="author"
@@ -40,6 +40,7 @@
     <meta property="article:section" content="projects">
     <meta property="article:published_time" content="2026-01-18T14:30:00+08:00">
     <meta property="article:modified_time" content="2026-01-18T14:30:00+08:00">
+    <meta property="article:tag" content="Works">
     <meta property="article:tag" content="Daily Life">
     <meta property="article:tag" content="Software">
     <meta property="article:tag" content="Hardware">
@@ -56,9 +57,9 @@
   <meta itemprop="description" content="AlexaやWEBページから部屋の温度や湿度を取得するためのシステムを開発しました。">
   <meta itemprop="datePublished" content="2026-01-18T14:30:00+08:00">
   <meta itemprop="dateModified" content="2026-01-18T14:30:00+08:00">
-  <meta itemprop="wordCount" content="1">
+  <meta itemprop="wordCount" content="782">
   <meta itemprop="image" content="http://localhost:1313/images/og-default.avif">
-  <meta itemprop="keywords" content="Daily Life,Software,Hardware">
+  <meta itemprop="keywords" content="Works,Daily Life,Software,Hardware">
 
 
 
@@ -696,6 +697,13 @@
               <div class="flex flex-wrap items-center gap-2">
                 
                   <a
+                    href="/tags/works/"
+                    class="bg-muted/40 text-foreground border-border hover:bg-primary hover:text-primary-foreground hover:border-primary inline-flex rounded-lg border px-3 py-1.5 text-xs font-medium shadow-sm transition-all md:text-sm"
+                  >
+                    Works
+                  </a>
+                
+                  <a
                     href="/tags/daily-life/"
                     class="bg-muted/40 text-foreground border-border hover:bg-primary hover:text-primary-foreground hover:border-primary inline-flex rounded-lg border px-3 py-1.5 text-xs font-medium shadow-sm transition-all md:text-sm"
                   >
@@ -729,8 +737,39 @@
   
   <div class="bg-card border-border rounded-xl border p-6 shadow-sm md:p-8 md:px-10">
     <article class="prose prose-neutral dark:prose-invert max-w-none">
-      <p>あ</p>
-
+      <h2 id="overview">Overview<a href="#overview" class="heading-anchor" aria-label="このセクションへのリンク"><svg class="h-4 w-4" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></g></svg></a></h2><p>Alexaに尋ねたり、特定のWEBサイトにアクセスすることで部屋の温度や湿度を取得することのできるシステムを開発しました。特にAlexaには「Alexa、今の室温は？」などと尋ねることにより各種情報を知ることができます。話しかけるだけでシームレスに部屋の温度と湿度を知ることができます。</p>
+<h2 id="motivation">Motivation<a href="#motivation" class="heading-anchor" aria-label="このセクションへのリンク"><svg class="h-4 w-4" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></g></svg></a></h2><p>どの部屋にでも温度計や湿度計があることが大抵で、「そこまで歩き、時にしゃがみ、温湿度を読み取る」という流れが毎日のように行われています。日々の生活の中では難なくこなしていますが、一ヶ月や一年単位で見ると無駄な時間が大きくなってしまっているのではないかと感じました。特に面倒くさがりな人にとっては温湿度を見に行くのは面倒なこととして捉えられることが大半です。自身も例に漏れず、面倒だと感じたので、ただ話しかけたり、いつでも手元にあるスマートフォンで温湿度を確認できれば良いなと考え、本システムを開発しました。</p>
+<h2 id="development">Development<a href="#development" class="heading-anchor" aria-label="このセクションへのリンク"><svg class="h-4 w-4" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></g></svg></a></h2><p>簡単なシステム図を以下に示します。</p>
+<figure>
+    <img src = "systemfig.png" style = "width: 80%">
+    <figcaption>システム図</figcaption>
+</figure>
+<p>また、室内のインテリアに馴染ませることにも取り組みたかったため、Raspberry Piおよびセンサ類を隠すことができるようにケース類を設計・製作しました。</p>
+<figure>
+    <img src = "case.png" style = "width: 50%">
+    <figcaption>Autodesk Fusionでケースを設計する様子</figcaption>
+</figure>
+<p>なお、開発リポジトリはセキュリティに関わる情報の切り離しが完了していないため、非公開としています。</p>
+<h2 id="skill-sets">Skill Sets<a href="#skill-sets" class="heading-anchor" aria-label="このセクションへのリンク"><svg class="h-4 w-4" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></g></svg></a></h2><p>使用した技術（スキル）は以下の通りです。</p>
+<ul>
+<li>Raspberry Pi</li>
+<li>Python</li>
+<li>電子工作</li>
+<li>HTML / CSS / JavaScript
+<ul>
+<li>WEB部分は基本的に生成AIによる出力を使用しました</li>
+</ul>
+</li>
+<li>Autodesk Fusion</li>
+</ul>
+<h2 id="outcome">Outcome<a href="#outcome" class="heading-anchor" aria-label="このセクションへのリンク"><svg class="h-4 w-4" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></g></svg></a></h2><p>最上部に示したようなRaspberry Piおよび温湿度センサを組み込んだ機体を作成することができました。</p>
+<p>Webページにアクセスすると、以下のように温湿度を確認することができます。</p>
+<figure>
+    <img src = "mobile.jpg" style = "width: 40%">
+    <figcaption>携帯電話から部屋の温湿度を確認する様子</figcaption>
+</figure>
+<p>また、Alexaに『』</p>
+<!-- ここにAlexaで動作する様子のYouTubeリンクを載せる -->
     </article>
   </div>
 
@@ -1011,7 +1050,57 @@
 
 
 
-      
+      <aside
+    id="toc-container"
+    class="toc-center"
+    data-position="center"
+  >
+      <div
+        id="toc-center"
+        class="pointer-events-none fixed top-28 right-0 left-0 z-40 mx-auto w-full max-w-4xl px-4 transition-all duration-300"
+      >
+        <div class="pointer-events-auto relative mx-auto w-fit">
+          <button
+            id="toc-center-toggle"
+            class="bg-card/80 border-border text-muted-foreground hover:text-primary hover:bg-primary/10 ring-offset-background focus-visible:ring-ring flex cursor-pointer items-center gap-2 rounded-full border px-4 py-1.5 text-sm shadow-sm backdrop-blur-sm transition-colors focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:outline-none"
+          >
+            <svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <line x1="8" x2="21" y1="6" y2="6"/>
+  <line x1="8" x2="21" y1="12" y2="12"/>
+  <line x1="8" x2="21" y1="18" y2="18"/>
+  <line x1="3" x2="3.01" y1="6" y2="6"/>
+  <line x1="3" x2="3.01" y1="12" y2="12"/>
+  <line x1="3" x2="3.01" y1="18" y2="18"/>
+</svg>
+
+            <span id="toc-center-title" class="max-w-[200px] truncate">目次</span>
+            <svg class="h-3 w-3" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+</svg>
+          </button>
+
+          
+          <div
+            id="toc-center-dropdown"
+            class="bg-card border-border scrollbar-hide absolute top-full left-1/2 mt-2 hidden max-h-[60vh] w-[280px] origin-top -translate-x-1/2 scale-95 overflow-y-auto rounded-xl border p-4 opacity-0 shadow-lg transition-all"
+          >
+            <div
+              id="toc-center-content"
+              class="[&_a]:text-muted-foreground [&_a:hover]:bg-primary/10 [&_a:hover]:text-primary [&_a.active]:bg-primary/10 [&_a.active]:text-primary text-sm [&_a]:block [&_a]:truncate [&_a]:rounded-md [&_a]:px-2 [&_a]:py-1 [&_a]:transition-colors [&_a.active]:font-medium [&_li]:my-1.5 [&_nav>ul]:pl-0 [&_ul]:list-none [&_ul]:pl-4"
+            >
+              <nav id="TableOfContents">
+  <ul>
+    <li><a href="#overview">Overview</a></li>
+    <li><a href="#motivation">Motivation</a></li>
+    <li><a href="#development">Development</a></li>
+    <li><a href="#skill-sets">Skill Sets</a></li>
+    <li><a href="#outcome">Outcome</a></li>
+  </ul>
+</nav>
+            </div>
+          </div>
+        </div>
+      </div></aside>
       
 <div
   id="search-overlay"

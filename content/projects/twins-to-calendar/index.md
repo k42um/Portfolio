@@ -7,6 +7,7 @@ description: "筑波大学の履修登録ツールTwinsの情報を元に、カ�
 summary: "筑波大学の履修登録ツールTwinsの情報を元に、カレンダーアプリへ時間割情報を登録するChrome拡張機能を開発しました。"
 featured: false
 tags:
+  - Works
   - Daily Life
   - Software
   - Vibe Coding
@@ -16,4 +17,12 @@ cover: "screenshot.png"
 status: "completed"
 ---
 
-あ
+## Overview
+
+## Motivation
+
+## Development
+
+## Skill Sets
+
+## Outcome

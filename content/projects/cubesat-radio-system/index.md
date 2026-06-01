@@ -7,6 +7,7 @@ description: "超小型人工衛星TSUKUTO（筑波大学「結」プロジェ�
 summary: "超小型人工衛星TSUKUTO（筑波大学「結」プロジェクト）が開発中のTSUKUTOの通信システムの設計・実装を行いました。"
 featured: false
 tags:
+  - Works
   - CubeSat
   - Software
   - Management
@@ -17,4 +18,12 @@ link: "https://yui.kz.tsukuba.ac.jp/pages/tsukuto/about/"
 status: "in_progress"
 ---
 
-あ
+## Overview
+
+## Motivation
+
+## Development
+
+## Skill Sets
+
+## Outcome

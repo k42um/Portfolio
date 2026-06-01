@@ -7,6 +7,7 @@ description: "パソコンで使用するマウスを自作しています。"
 summary: "パソコンで使用するマウスを自作しています。"
 featured: false
 tags:
+  - Works
   - Daily Life
   - Software
   - Hardware
@@ -16,4 +17,12 @@ cover: "mouse.jpeg"
 status: "in_progress"
 ---
 
-あ
+## Overview
+
+## Motivation
+
+## Development
+
+## Skill Sets
+
+## Outcome

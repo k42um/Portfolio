@@ -7,6 +7,7 @@ description: "筑波大学「結」プロジェクトでMTGの議事録作成と
 summary: "筑波大学「結」プロジェクトでMTGの議事録作成と全体告知を自動化するシステムの開発を行いました。"
 featured: false
 tags:
+  - Works
   - CubeSat
   - Software
   - Management
@@ -17,4 +18,12 @@ link: "https://yui.kz.tsukuba.ac.jp"
 status: "completed"
 ---
 
-あ
+## Overview
+
+## Motivation
+
+## Development
+
+## Skill Sets
+
+## Outcome

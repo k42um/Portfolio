@@ -1,0 +1,129 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
+  <diagram name="ページ1" id="ILd01bM6mcsVoGCvLtbB">
+    <mxGraphModel dx="782" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4iK_Le7y09nZixwgw87q-24" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;arcSize=7;" vertex="1" parent="1">
+          <mxGeometry x="40" y="410" width="300" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="4iK_Le7y09nZixwgw87q-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4iK_Le7y09nZixwgw87q-1" target="4iK_Le7y09nZixwgw87q-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4iK_Le7y09nZixwgw87q-6" value="ngrok" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4iK_Le7y09nZixwgw87q-5">
+          <mxGeometry x="-0.0929" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4iK_Le7y09nZixwgw87q-1" value="Raspberry Pi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="228" y="21" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4iK_Le7y09nZixwgw87q-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4iK_Le7y09nZixwgw87q-2" target="4iK_Le7y09nZixwgw87q-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4iK_Le7y09nZixwgw87q-2" value="温湿度センサ&lt;div&gt;DHT22&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="368" y="21" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4iK_Le7y09nZixwgw87q-4" value="WEBページ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="68" y="21" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4iK_Le7y09nZixwgw87q-7" value="Amazon Echo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="68" y="231" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4iK_Le7y09nZixwgw87q-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4iK_Le7y09nZixwgw87q-8" target="4iK_Le7y09nZixwgw87q-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4iK_Le7y09nZixwgw87q-10" value="WEBページをエンドポイントとして利用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4iK_Le7y09nZixwgw87q-9">
+          <mxGeometry x="-0.0071" y="-1" relative="1" as="geometry">
+            <mxPoint x="-1" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4iK_Le7y09nZixwgw87q-11" value="対話指示" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4iK_Le7y09nZixwgw87q-8" target="4iK_Le7y09nZixwgw87q-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4iK_Le7y09nZixwgw87q-8" value="Alexa&lt;div&gt;Custom Skill&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="68" y="141" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4iK_Le7y09nZixwgw87q-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4iK_Le7y09nZixwgw87q-13" target="4iK_Le7y09nZixwgw87q-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4iK_Le7y09nZixwgw87q-32" value="SPI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4iK_Le7y09nZixwgw87q-26">
+          <mxGeometry x="-0.0017" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4iK_Le7y09nZixwgw87q-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4iK_Le7y09nZixwgw87q-13" target="4iK_Le7y09nZixwgw87q-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4iK_Le7y09nZixwgw87q-40" value="I2C" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4iK_Le7y09nZixwgw87q-39">
+          <mxGeometry x="0.2649" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4iK_Le7y09nZixwgw87q-13" value="Spresense&lt;br&gt;メインボード" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="530" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4iK_Le7y09nZixwgw87q-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;" edge="1" parent="1" source="4iK_Le7y09nZixwgw87q-14" target="4iK_Le7y09nZixwgw87q-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="520" />
+              <mxPoint x="165" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4iK_Le7y09nZixwgw87q-14" value="SDカード" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="450" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4iK_Le7y09nZixwgw87q-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4iK_Le7y09nZixwgw87q-16" target="4iK_Le7y09nZixwgw87q-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="510" />
+              <mxPoint x="215" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4iK_Le7y09nZixwgw87q-16" value="GNSS&lt;div&gt;信号レシーバ&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="450" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4iK_Le7y09nZixwgw87q-20" value="時刻信号" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4iK_Le7y09nZixwgw87q-18" target="4iK_Le7y09nZixwgw87q-16">
+          <mxGeometry x="-0.4286" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="390" />
+              <mxPoint x="260" y="390" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4iK_Le7y09nZixwgw87q-18" value="GNSS&lt;div&gt;（GPSなど）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="310" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4iK_Le7y09nZixwgw87q-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4iK_Le7y09nZixwgw87q-21" target="4iK_Le7y09nZixwgw87q-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4iK_Le7y09nZixwgw87q-36" value="Digital Signal" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4iK_Le7y09nZixwgw87q-35">
+          <mxGeometry x="-0.3975" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4iK_Le7y09nZixwgw87q-21" value="ビットシフト&lt;div&gt;レジスタ&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="690" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4iK_Le7y09nZixwgw87q-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4iK_Le7y09nZixwgw87q-22" target="4iK_Le7y09nZixwgw87q-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4iK_Le7y09nZixwgw87q-22" value="入力用ボタン" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="498" y="690" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4iK_Le7y09nZixwgw87q-23" value="LoRa通信用&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;モジュール&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="530" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4iK_Le7y09nZixwgw87q-25" value="Spresense 拡張ボード" style="text;html=1;align=left;verticalAlign=bottom;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="410" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4iK_Le7y09nZixwgw87q-34" value="LoRa通信用&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;モジュール&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="610" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

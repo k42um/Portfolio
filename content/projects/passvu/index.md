@@ -7,6 +7,7 @@ description: "人工衛星との通信のために、通信可能な時間や方
 summary: "人工衛星との通信のために、通信可能な時間や方角等の必要な情報をユーザに伝えるWEBツールを開発しました。"
 featured: false
 tags:
+  - Works
   - CubeSat
   - Software
   - Vibe Coding
@@ -16,4 +17,12 @@ cover: "passvu.png"
 status: "completed"
 ---
 
-あ
+## Overview
+
+## Motivation
+
+## Development
+
+## Skill Sets
+
+## Outcome
