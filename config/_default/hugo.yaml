@@ -71,6 +71,10 @@ outputFormats:
     baseName: "site"
     isPlainText: true
 
+caches:
+  getresource:
+    maxAge: 0
+
 module:
   hugoVersion:
     extended: true

@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-05-29T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/%E7%AD%91%E6%B3%A2%E5%A4%A7%E5%AD%A6%E3%81%AE2026%E5%B9%B4%E5%BA%A6%E5%85%88%E5%B0%8E%E7%9A%84%E7%A0%94%E7%A9%B6%E8%80%85%E4%BD%93%E9%A8%93%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E3%81%AB%E6%8E%A1%E6%8A%9E%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F/</loc>
+    <lastmod>2026-05-29T10:00:00+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2026-05-27T14:30:00+08:00</lastmod>
     <xhtml:link
@@ -46,11 +52,26 @@
                 href="http://localhost:1313/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/funding/</loc>
+    <loc>http://localhost:1313/tags/circuit/</loc>
+    <lastmod>2026-05-22T14:30:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hardware/</loc>
     <lastmod>2026-05-22T14:30:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/lora-handy/</loc>
     <lastmod>2026-05-22T14:30:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/daily-life/</loc>
+    <lastmod>2026-04-13T14:30:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/vibe-coding/</loc>
+    <lastmod>2026-04-13T14:30:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/twins-to-calendar/</loc>
+    <lastmod>2026-04-13T14:30:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/mouse-diy/</loc>
+    <lastmod>2026-03-18T14:30:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/cram-school/</loc>
     <lastmod>2026-03-01T14:30:00+08:00</lastmod>
@@ -71,72 +92,29 @@
                 href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-12-26T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/projects/alexa-temp-humid/</loc>
+    <lastmod>2026-01-18T14:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
-    <lastmod>2025-12-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja-JP"
-                href="http://localhost:1313/series/"
-                />
+    <loc>http://localhost:1313/projects/weather-wpaper/</loc>
+    <lastmod>2026-01-18T14:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/shortcode/</loc>
-    <lastmod>2025-12-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/shortcode/</loc>
-    <lastmod>2025-12-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/shortcodes/</loc>
-    <lastmod>2025-12-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/series/test/</loc>
-    <lastmod>2025-12-26T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/projects/passvu/</loc>
+    <lastmod>2025-11-25T14:30:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/project-mtg-automation/</loc>
     <lastmod>2025-10-09T14:30:00+08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/class/</loc>
+    <lastmod>2024-11-06T14:30:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/tsukuba-robot-contest-2024/</loc>
+    <lastmod>2024-11-06T14:30:00+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/projects/cubesat-crowdfunding/</loc>
     <lastmod>2024-07-23T14:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/go/</loc>
-    <lastmod>2024-02-20T14:30:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
-    <lastmod>2024-02-20T14:30:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/hugo-framework/</loc>
-    <lastmod>2024-02-20T14:30:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/gallery/</loc>
-    <lastmod>2024-01-16T22:30:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/gallery/</loc>
-    <lastmod>2024-01-16T22:30:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/image-gallery/</loc>
-    <lastmod>2024-01-16T22:30:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/hugo-narrow-theme/</loc>
-    <lastmod>2024-01-15T10:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/markdown/</loc>
-    <lastmod>2024-01-15T10:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/markdown/</loc>
-    <lastmod>2024-01-15T10:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/markdown-syntax-guide/</loc>
-    <lastmod>2024-01-15T10:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/tailwind-css/</loc>
-    <lastmod>2024-01-15T10:00:00+08:00</lastmod>
+    <loc>http://localhost:1313/tags/funding/</loc>
+    <lastmod>2024-07-23T14:30:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2024-01-01T00:00:00+08:00</lastmod>
@@ -152,5 +130,17 @@
                 />
   </url><url>
     <loc>http://localhost:1313/focus/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja-JP"
+                href="http://localhost:1313/series/"
+                />
   </url>
 </urlset>

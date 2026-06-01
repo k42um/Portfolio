@@ -1,5 +1,5 @@
 ---
-title: "CFでの230万円調達（筑波大学「結」プロジェクト）"
+title: "CFでの230万円調達"
 date: 2024-07-23T14:30:00+08:00
 draft: false
 slug: cubesat-crowdfunding

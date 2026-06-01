@@ -13,7 +13,35 @@
       <link>http://localhost:1313/projects/lora-handy/</link>
       <pubDate>Fri, 22 May 2026 14:30:00 +0800</pubDate>
       <guid>http://localhost:1313/projects/lora-handy/</guid>
-      <description>筑波大学「結」プロジェクトで超小型人工衛星TSUKUTOを開発するためのクラウドファンディングを実施し、2,316,000円の調達に成功しました。</description>
+      <description>LoRa通信をいつでもどこでも出来るように、LoRaのハンディ（手持ち型の通信機）を開発しました。</description>
+    </item>
+    <item>
+      <title>マウスの自作</title>
+      <link>http://localhost:1313/projects/mouse-diy/</link>
+      <pubDate>Wed, 18 Mar 2026 14:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/projects/mouse-diy/</guid>
+      <description>パソコンで使用するマウスを自作しています。</description>
+    </item>
+    <item>
+      <title>Alexaから温度・湿度を計測するシステムの開発</title>
+      <link>http://localhost:1313/projects/alexa-temp-humid/</link>
+      <pubDate>Sun, 18 Jan 2026 14:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/projects/alexa-temp-humid/</guid>
+      <description>AlexaやWEBページから部屋の温度や湿度を取得するためのシステムを開発しました。</description>
+    </item>
+    <item>
+      <title>電子ペーパーに天気予報を表示するシステムの開発</title>
+      <link>http://localhost:1313/projects/weather-wpaper/</link>
+      <pubDate>Sun, 18 Jan 2026 14:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/projects/weather-wpaper/</guid>
+      <description>電子ペーパーに天気予報や予想気温を表示するためのシステムを開発しました。</description>
+    </item>
+    <item>
+      <title>つくばロボットコンテスト2024での総合2位入賞</title>
+      <link>http://localhost:1313/projects/tsukuba-robot-contest-2024/</link>
+      <pubDate>Wed, 06 Nov 2024 14:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/projects/tsukuba-robot-contest-2024/</guid>
+      <description>筑波大学の授業であるつくばロボットコンテスト2024において、総合2位に入賞しました。</description>
     </item>
   </channel>
 </rss>

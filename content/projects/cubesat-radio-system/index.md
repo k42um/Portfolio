@@ -5,7 +5,7 @@ draft: false
 slug: cubesat-radio-system
 description: "超小型人工衛星TSUKUTO（筑波大学「結」プロジェクト）が開発中のTSUKUTOの通信システムの設計・実装を行いました。"
 summary: "超小型人工衛星TSUKUTO（筑波大学「結」プロジェクト）が開発中のTSUKUTOの通信システムの設計・実装を行いました。"
-featured: true
+featured: false
 tags:
   - CubeSat
   - Software

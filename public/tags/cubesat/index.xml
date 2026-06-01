@@ -20,7 +20,14 @@
       <link>http://localhost:1313/projects/lora-handy/</link>
       <pubDate>Fri, 22 May 2026 14:30:00 +0800</pubDate>
       <guid>http://localhost:1313/projects/lora-handy/</guid>
-      <description>筑波大学「結」プロジェクトで超小型人工衛星TSUKUTOを開発するためのクラウドファンディングを実施し、2,316,000円の調達に成功しました。</description>
+      <description>LoRa通信をいつでもどこでも出来るように、LoRaのハンディ（手持ち型の通信機）を開発しました。</description>
+    </item>
+    <item>
+      <title>衛星通信補助ツールの作成</title>
+      <link>http://localhost:1313/projects/passvu/</link>
+      <pubDate>Tue, 25 Nov 2025 14:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/projects/passvu/</guid>
+      <description>人工衛星との通信のために、通信可能な時間や方角等の必要な情報をユーザに伝えるWEBツールを開発しました。</description>
     </item>
     <item>
       <title>MTGの議事録自動生成システムの開発</title>
@@ -30,7 +37,7 @@
       <description>筑波大学「結」プロジェクトでMTGの議事録作成と全体告知を自動化するシステムの開発を行いました。</description>
     </item>
     <item>
-      <title>CFでの230万円調達（筑波大学「結」プロジェクト）</title>
+      <title>CFでの230万円調達</title>
       <link>http://localhost:1313/projects/cubesat-crowdfunding/</link>
       <pubDate>Tue, 23 Jul 2024 14:30:00 +0800</pubDate>
       <guid>http://localhost:1313/projects/cubesat-crowdfunding/</guid>

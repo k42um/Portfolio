@@ -30,10 +30,31 @@
       <description></description>
     </item>
     <item>
-      <title>Funding</title>
-      <link>http://localhost:1313/tags/funding/</link>
+      <title>Circuit</title>
+      <link>http://localhost:1313/tags/circuit/</link>
       <pubDate>Fri, 22 May 2026 14:30:00 +0800</pubDate>
-      <guid>http://localhost:1313/tags/funding/</guid>
+      <guid>http://localhost:1313/tags/circuit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hardware</title>
+      <link>http://localhost:1313/tags/hardware/</link>
+      <pubDate>Fri, 22 May 2026 14:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/hardware/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Daily Life</title>
+      <link>http://localhost:1313/tags/daily-life/</link>
+      <pubDate>Mon, 13 Apr 2026 14:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/daily-life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vibe Coding</title>
+      <link>http://localhost:1313/tags/vibe-coding/</link>
+      <pubDate>Mon, 13 Apr 2026 14:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/vibe-coding/</guid>
       <description></description>
     </item>
     <item>
@@ -44,45 +65,24 @@
       <description></description>
     </item>
     <item>
-      <title>Shortcode</title>
-      <link>http://localhost:1313/tags/shortcode/</link>
-      <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/shortcode/</guid>
+      <title>Class</title>
+      <link>http://localhost:1313/tags/class/</link>
+      <pubDate>Wed, 06 Nov 2024 14:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/class/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Funding</title>
+      <link>http://localhost:1313/tags/funding/</link>
+      <pubDate>Tue, 23 Jul 2024 14:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/funding/</guid>
       <description></description>
     </item>
     <item>
       <title>Gallery</title>
       <link>http://localhost:1313/tags/gallery/</link>
-      <pubDate>Tue, 16 Jan 2024 22:30:00 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/gallery/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Markdown</title>
-      <link>http://localhost:1313/tags/markdown/</link>
-      <pubDate>Mon, 15 Jan 2024 10:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/tags/markdown/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Go</title>
-      <link>http://localhost:1313/tags/go/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/go/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hugo</title>
-      <link>http://localhost:1313/tags/hugo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/hugo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tailwind CSS</title>
-      <link>http://localhost:1313/tags/tailwind-css/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tailwind-css/</guid>
       <description></description>
     </item>
   </channel>

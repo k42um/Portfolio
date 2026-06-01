@@ -101,8 +101,8 @@ home:
   contentOrder:
     - author-section
     - page-content
-    - recent-posts
     - featured-projects.html
+    - recent-posts
 
 # Post configuration
 post:
