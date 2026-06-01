@@ -1,7 +1,7 @@
 ---
 title: "Hugo Narrow Theme"
 date: 2024-01-15T10:00:00+08:00
-draft: false
+draft: true
 slug: hugo-narrow-theme
 description: "A modern, clean, and minimal Hugo theme built with Tailwind CSS 4.0"
 summary: "A modern Hugo theme with multiple color schemes, dark mode support, and responsive design built on TailwindCSS 4."

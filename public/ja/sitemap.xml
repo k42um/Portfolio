@@ -46,6 +46,12 @@
                 href="http://localhost:1313/tags/"
                 />
   </url><url>
+    <loc>http://localhost:1313/tags/funding/</loc>
+    <lastmod>2026-05-22T14:30:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/lora-handy/</loc>
+    <lastmod>2026-05-22T14:30:00+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/cram-school/</loc>
     <lastmod>2026-03-01T14:30:00+08:00</lastmod>
   </url><url>
@@ -96,13 +102,7 @@
     <loc>http://localhost:1313/projects/project-mtg-automation/</loc>
     <lastmod>2025-10-09T14:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/project-mtg-automation/</loc>
-    <lastmod>2024-07-23T14:30:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/project-mtg-automation/</loc>
-    <lastmod>2024-07-23T14:30:00+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/funding/</loc>
+    <loc>http://localhost:1313/projects/cubesat-crowdfunding/</loc>
     <lastmod>2024-07-23T14:30:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/go/</loc>

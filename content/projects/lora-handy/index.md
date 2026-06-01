@@ -8,7 +8,8 @@ summary: "筑波大学「結」プロジェクトで超小型人工衛星TSUKUTO
 featured: true
 tags:
   - CubeSat
-  - funding
+  - Software
+  - Hardware
 categories:
   - projects
 cover: "lora-handy.jpg"
