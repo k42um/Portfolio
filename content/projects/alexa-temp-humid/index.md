@@ -57,7 +57,7 @@ Alexaに尋ねたり、特定のWEBサイトにアクセスしたりすること
 WEBページにアクセスすると、以下のように温湿度を確認することができます。
 
 <figure>
-    <img src = "mobile.jpg" style = "width: 40%">
+    <img src = "mobile.JPG" style = "width: 40%">
     <figcaption>携帯電話から部屋の温湿度を確認する様子</figcaption>
 </figure>
 

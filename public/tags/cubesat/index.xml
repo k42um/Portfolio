@@ -13,14 +13,14 @@
       <link>http://localhost:1313/projects/cubesat-radio-system/</link>
       <pubDate>Wed, 27 May 2026 14:30:00 +0800</pubDate>
       <guid>http://localhost:1313/projects/cubesat-radio-system/</guid>
-      <description>超小型人工衛星TSUKUTO（筑波大学「結」プロジェクト）が開発中のTSUKUTOの通信システムの設計・実装を行いました。</description>
+      <description>筑波大学「結」プロジェクトが開発中のTSUKUTOの通信システムの設計・実装を行いました。</description>
     </item>
     <item>
       <title>LoRa通信ハンディの開発</title>
       <link>http://localhost:1313/projects/lora-handy/</link>
       <pubDate>Fri, 22 May 2026 14:30:00 +0800</pubDate>
       <guid>http://localhost:1313/projects/lora-handy/</guid>
-      <description>LoRa通信をいつでもどこでも出来るように、LoRaのハンディ（手持ち型の通信機）を開発しました。</description>
+      <description>LoRa通信をいつでもどこでも使えるように、LoRaのハンディ（手持ち型の通信機）を開発しました。</description>
     </item>
     <item>
       <title>衛星通信補助ツールの作成</title>
