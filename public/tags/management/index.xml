@@ -22,12 +22,5 @@
       <guid>http://localhost:1313/projects/cram-school-2025/</guid>
       <description>塾講師として物理・化学を指導した高校3年生3名が筑波大学に合格しました。</description>
     </item>
-    <item>
-      <title>MTGの議事録自動生成システムの開発</title>
-      <link>http://localhost:1313/projects/project-mtg-automation/</link>
-      <pubDate>Thu, 09 Oct 2025 14:30:00 +0800</pubDate>
-      <guid>http://localhost:1313/projects/project-mtg-automation/</guid>
-      <description>筑波大学「結」プロジェクトでMTGの議事録作成と全体告知を自動化するシステムの開発を行いました。</description>
-    </item>
   </channel>
 </rss>

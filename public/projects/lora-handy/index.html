@@ -10,7 +10,7 @@
 
 <meta
   name="description"
-  content="LoRa通信をいつでもどこでも出来るように、LoRaのハンディ（手持ち型の通信機）を開発しました。"
+  content="LoRa通信をいつでもどこでも使えるように、LoRaのハンディ（手持ち型の通信機）を開発しました。"
 />
 <meta
   name="keywords"
@@ -34,7 +34,7 @@
 <meta property="og:url" content="http://localhost:1313/projects/lora-handy/">
   <meta property="og:site_name" content="Welcome to k42uma&#39;s Portfolio!">
   <meta property="og:title" content="LoRa通信ハンディの開発">
-  <meta property="og:description" content="LoRa通信をいつでもどこでも出来るように、LoRaのハンディ（手持ち型の通信機）を開発しました。">
+  <meta property="og:description" content="LoRa通信をいつでもどこでも使えるように、LoRaのハンディ（手持ち型の通信機）を開発しました。">
   <meta property="og:locale" content="ja_JP">
   <meta property="og:type" content="article">
     <meta property="article:section" content="projects">
@@ -51,14 +51,14 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:image" content="http://localhost:1313/images/og-default.avif">
   <meta name="twitter:title" content="LoRa通信ハンディの開発">
-  <meta name="twitter:description" content="LoRa通信をいつでもどこでも出来るように、LoRaのハンディ（手持ち型の通信機）を開発しました。">
+  <meta name="twitter:description" content="LoRa通信をいつでもどこでも使えるように、LoRaのハンディ（手持ち型の通信機）を開発しました。">
 
 
   <meta itemprop="name" content="LoRa通信ハンディの開発">
-  <meta itemprop="description" content="LoRa通信をいつでもどこでも出来るように、LoRaのハンディ（手持ち型の通信機）を開発しました。">
+  <meta itemprop="description" content="LoRa通信をいつでもどこでも使えるように、LoRaのハンディ（手持ち型の通信機）を開発しました。">
   <meta itemprop="datePublished" content="2026-05-22T14:30:00+08:00">
   <meta itemprop="dateModified" content="2026-05-22T14:30:00+08:00">
-  <meta itemprop="wordCount" content="950">
+  <meta itemprop="wordCount" content="1420">
   <meta itemprop="image" content="http://localhost:1313/images/og-default.avif">
   <meta itemprop="keywords" content="Works,CubeSat,Software,Hardware,Circuit">
 
@@ -651,7 +651,7 @@
     
     
       <div class="text-muted-foreground text-lg leading-relaxed md:text-xl">
-        LoRa通信をいつでもどこでも出来るように、LoRaのハンディ（手持ち型の通信機）を開発しました。
+        LoRa通信をいつでもどこでも使えるように、LoRaのハンディ（手持ち型の通信機）を開発しました。
       </div>
     
   </header>
@@ -760,13 +760,14 @@
   <div class="bg-card border-border rounded-xl border p-6 shadow-sm md:p-8 md:px-10">
     <article class="prose prose-neutral dark:prose-invert max-w-none">
       <h2 id="overview">Overview<a href="#overview" class="heading-anchor" aria-label="このセクションへのリンク"><svg class="h-4 w-4" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></g></svg></a></h2><p>LoRaとはLPWA（Low Power Wide Area）の一種で、小さい消費電力で長距離通信を可能にする通信方式です。自身が所属する超小型人工衛星開発団体である『筑波大学「結」プロジェクト』では衛星と地球間の通信手段として本通信方式を採用しています。自身が作成した『LoRaハンディ』とはLoRaでの送受信が可能な手持ちサイズの通信機のことで、LoRaを用いて文字列の送受信を行い、通信検証を行うことができます。</p>
-<h2 id="motivation">Motivation<a href="#motivation" class="heading-anchor" aria-label="このセクションへのリンク"><svg class="h-4 w-4" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></g></svg></a></h2><p>自身が所属する『筑波大学「結」プロジェクト』は小さい消費電力でありながら、長距離通信が可能であるという点に着目し、使用できる電力に強い制限のあるCubeSat（超小型人工衛星）においてLoRa通信を採用しました。CubeSatでのLoRa通信に関する開発や学習を通じて、LoRa通信へ強い興味を示した上に、その間でLoRa通信の知名度がかなり低く、受信環境が整っているひとがごくわずかしか存在しないことに気づきました。かつてより衛星通信の変調方式として利用されていた『GMSK』などは適切な受信環境をすでに揃えている人が多いですが、LoRa通信はそういった設備を持つ人がかなり少ないです。そこで、自身は人々（特にアマチュア無線家）がよりLoRa通信を身近に感じ、そして気軽に使えるような無線機を開発したいと考えるようになりました。</p>
+<h2 id="motivation">Motivation<a href="#motivation" class="heading-anchor" aria-label="このセクションへのリンク"><svg class="h-4 w-4" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></g></svg></a></h2><p>自身が所属する『筑波大学「結」プロジェクト』は小さい消費電力でありながら、長距離通信が可能であるという点に着目し、使用できる電力に強い制限のあるCubeSat（超小型人工衛星）においてLoRa通信を採用しました。私はCubeSatでのLoRa通信に関する開発や学習を通じて、LoRa通信へ強い興味を感じた上に、その中でLoRa通信の知名度がかなり低く、受信環境が整っている人がごくわずかしか存在しないことに気づきました。かつてより衛星通信の変調方式として利用されていた『GMSK』などは適切な受信環境をすでに揃えている人が多いですが、LoRa通信はそういった設備を持つ人がかなり少ないです。（その上、既存の設備では原理的に変復調することが困難なケースが多いです。）そこで、自身は人々（特にアマチュア無線家）がよりLoRa通信を身近に感じ、そして気軽に使えるような無線機を開発したいと考えるようになりました。</p>
 <p>また、自身のものづくりの中でソフトウェア開発・回路設計・ハードウェア開発の3点を総合的に行ってみたいという気持ちもあり、自身一人でオリジナルのLoRaハンディを作成することに決めました。</p>
 <h2 id="development">Development<a href="#development" class="heading-anchor" aria-label="このセクションへのリンク"><svg class="h-4 w-4" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></g></svg></a></h2><p>LoRaハンディが持つ機能を以下に示します。</p>
 <ul>
 <li>（前提）スタンドアローンで使用可能
 <ul>
 <li>電源供給のみで全ての機能を使用できること</li>
+<li>パソコンの接続なしに使用できること</li>
 </ul>
 </li>
 <li>キー入力</li>
@@ -774,17 +775,51 @@
 <li>送受信やパラメータ変更のログの保存</li>
 <li>GNSSを使用した時刻同期</li>
 </ul>
-<p>上記の機能要求を満たせるように作成した、システムの設計図を以下に示します。</p>
+<p>上記の機能要求を満たせるように作成した、システムの設計概要図を以下に示します。</p>
 <figure>
     <img src = "systemfig.png" style = "width: 80%">
     <figcaption>システム図</figcaption>
 </figure>
-<p>ソフトウェアはArduino環境を採用し、各コンポーネントごとにクラスを設計し、それらをinoファイルで統合するような形で開発しました。また、回路はKiCadで設計を行い、JLCPCBでは基板を発注しました。</p>
+<p>ソフトウェアはArduino環境を採用し、各コンポーネントごとにクラスを設計し、それらをinoファイルで統合するような形で開発しました。また、回路はKiCadで設計を行い、JLCPCBで基板を発注しました。基板の設計時は高周波にノイズが載らないように細心の注意を払い、ビアの設置や配線長の工夫を行いました。</p>
 <figure>
     <img src = "kicad.png" style = "width: 60%">
-    <figcaption>KiCadで基板設計する様子</figcaption>
+    <figcaption>KiCadで基板を設計する様子</figcaption>
 </figure>
-<h2 id="skill-sets">Skill Sets<a href="#skill-sets" class="heading-anchor" aria-label="このセクションへのリンク"><svg class="h-4 w-4" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></g></svg></a></h2><h2 id="outcome">Outcome<a href="#outcome" class="heading-anchor" aria-label="このセクションへのリンク"><svg class="h-4 w-4" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></g></svg></a></h2>
+<figure>
+    <img src = "jlcpcb.JPG" style = "width: 60%">
+    <figcaption>実際に届いた基板</figcaption>
+</figure>
+<h2 id="skill-sets">Skill Sets<a href="#skill-sets" class="heading-anchor" aria-label="このセクションへのリンク"><svg class="h-4 w-4" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></g></svg></a></h2><p>使用した技術（スキル）は以下の通りです。</p>
+<ul>
+<li>Arduino</li>
+<li>Arduino IDE
+<ul>
+<li>C++</li>
+</ul>
+</li>
+<li>KiCad</li>
+<li>JLCPCB</li>
+<li>電子工作</li>
+</ul>
+<h2 id="outcome">Outcome<a href="#outcome" class="heading-anchor" aria-label="このセクションへのリンク"><svg class="h-4 w-4" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></g></svg></a></h2><p>以下のようにはんだづけを行い、無事期待通りの機能の動作確認が完了しました。特にLoRaの受信データがきちんと現在時刻とともにディスプレイに表示できた時はとても嬉しかったです。自身一人で本格的な基板設計をするのは初めての機会だったので、特に感動しました。</p>
+<figure>
+    <img src = "lora-handy.jpg" style = "width: 60%">
+    <figcaption>実際に完成したLoRaハンディ</figcaption>
+</figure>
+<p>まだ、LoRaハンディは完成には至っておらず、以下のような改善点があり、それぞれに改善策を設けました。これらを可能な限り早く実現させたいと考えています。</p>
+<ul>
+<li>基板剥き出しのため、持ち運びづらい
+<ul>
+<li><strong>3DCADと3Dプリンタで専用のケースを作成し、電卓のような見た目にする</strong></li>
+</ul>
+</li>
+<li>受信したことに気づきづらい
+<ul>
+<li><strong>受信時にブザー音が鳴るようにハードウェア・ソフトウェアを改修する</strong></li>
+</ul>
+</li>
+</ul>
+
     </article>
   </div>
 

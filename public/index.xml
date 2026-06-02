@@ -20,14 +20,14 @@
       <link>http://localhost:1313/projects/cubesat-radio-system/</link>
       <pubDate>Wed, 27 May 2026 14:30:00 +0800</pubDate>
       <guid>http://localhost:1313/projects/cubesat-radio-system/</guid>
-      <description>超小型人工衛星TSUKUTO（筑波大学「結」プロジェクト）が開発中のTSUKUTOの通信システムの設計・実装を行いました。</description>
+      <description>筑波大学「結」プロジェクトが開発中のTSUKUTOの通信システムの設計・実装を行いました。</description>
     </item>
     <item>
       <title>LoRa通信ハンディの開発</title>
       <link>http://localhost:1313/projects/lora-handy/</link>
       <pubDate>Fri, 22 May 2026 14:30:00 +0800</pubDate>
       <guid>http://localhost:1313/projects/lora-handy/</guid>
-      <description>LoRa通信をいつでもどこでも出来るように、LoRaのハンディ（手持ち型の通信機）を開発しました。</description>
+      <description>LoRa通信をいつでもどこでも使えるように、LoRaのハンディ（手持ち型の通信機）を開発しました。</description>
     </item>
     <item>
       <title>履修情報から時間割をカレンダーに追加するツールの開発</title>
@@ -51,7 +51,7 @@
       <description>塾講師として物理・化学を指導した高校3年生3名が筑波大学に合格しました。</description>
     </item>
     <item>
-      <title>Alexaから温度・湿度を計測するシステムの開発</title>
+      <title>Alexaから温度・湿度を確認するシステムの開発</title>
       <link>http://localhost:1313/projects/alexa-temp-humid/</link>
       <pubDate>Sun, 18 Jan 2026 14:30:00 +0800</pubDate>
       <guid>http://localhost:1313/projects/alexa-temp-humid/</guid>
@@ -69,21 +69,7 @@
       <link>http://localhost:1313/projects/passvu/</link>
       <pubDate>Tue, 25 Nov 2025 14:30:00 +0800</pubDate>
       <guid>http://localhost:1313/projects/passvu/</guid>
-      <description>人工衛星との通信のために、通信可能な時間や方角等の必要な情報をユーザに伝えるWEBツールを開発しました。</description>
-    </item>
-    <item>
-      <title>MTGの議事録自動生成システムの開発</title>
-      <link>http://localhost:1313/projects/project-mtg-automation/</link>
-      <pubDate>Thu, 09 Oct 2025 14:30:00 +0800</pubDate>
-      <guid>http://localhost:1313/projects/project-mtg-automation/</guid>
-      <description>筑波大学「結」プロジェクトでMTGの議事録作成と全体告知を自動化するシステムの開発を行いました。</description>
-    </item>
-    <item>
-      <title>つくばロボットコンテスト2024での総合2位入賞</title>
-      <link>http://localhost:1313/projects/tsukuba-robot-contest-2024/</link>
-      <pubDate>Wed, 06 Nov 2024 14:30:00 +0800</pubDate>
-      <guid>http://localhost:1313/projects/tsukuba-robot-contest-2024/</guid>
-      <description>筑波大学の授業であるつくばロボットコンテスト2024において、総合2位に入賞しました。</description>
+      <description>人工衛星との通信のために、通信可能な時間や方角などの必要な情報をユーザに伝えるWEBツールを開発しました。</description>
     </item>
     <item>
       <title>CFでの230万円調達</title>

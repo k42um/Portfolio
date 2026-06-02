@@ -15,12 +15,5 @@
       <guid>http://localhost:1313/projects/lora-handy/</guid>
       <description>LoRa通信をいつでもどこでも出来るように、LoRaのハンディ（手持ち型の通信機）を開発しました。</description>
     </item>
-    <item>
-      <title>つくばロボットコンテスト2024での総合2位入賞</title>
-      <link>http://localhost:1313/projects/tsukuba-robot-contest-2024/</link>
-      <pubDate>Wed, 06 Nov 2024 14:30:00 +0800</pubDate>
-      <guid>http://localhost:1313/projects/tsukuba-robot-contest-2024/</guid>
-      <description>筑波大学の授業であるつくばロボットコンテスト2024において、総合2位に入賞しました。</description>
-    </item>
   </channel>
 </rss>
