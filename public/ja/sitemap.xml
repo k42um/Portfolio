@@ -12,13 +12,13 @@
     <lastmod>2026-05-27T14:30:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/categories/"
+                hreflang="ja-JP"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ja-JP"
-                href="http://localhost:1313/categories/"
+                hreflang="en"
+                href="http://localhost:1313/en/categories/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/cubesat/</loc>
@@ -43,13 +43,13 @@
     <lastmod>2026-05-27T14:30:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                hreflang="ja-JP"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ja-JP"
-                href="http://localhost:1313/tags/"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/works/</loc>
@@ -86,13 +86,13 @@
     <lastmod>2026-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/"
+                hreflang="ja-JP"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ja-JP"
-                href="http://localhost:1313/"
+                hreflang="en"
+                href="http://localhost:1313/en/"
                 />
   </url><url>
     <loc>http://localhost:1313/projects/alexa-temp-humid/</loc>
@@ -114,13 +114,13 @@
     <lastmod>2024-01-01T00:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/about/"
+                hreflang="ja-JP"
+                href="http://localhost:1313/about/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ja-JP"
-                href="http://localhost:1313/about/"
+                hreflang="en"
+                href="http://localhost:1313/en/about/"
                 />
   </url><url>
     <loc>http://localhost:1313/focus/</loc>
@@ -128,13 +128,13 @@
     <loc>http://localhost:1313/series/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/series/"
+                hreflang="ja-JP"
+                href="http://localhost:1313/series/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ja-JP"
-                href="http://localhost:1313/series/"
+                hreflang="en"
+                href="http://localhost:1313/en/series/"
                 />
   </url>
 </urlset>

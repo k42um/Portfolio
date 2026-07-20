@@ -16,7 +16,7 @@ categories:
   - projects
 cover: "lora-handy.jpg"
 link: "https://github.com/yui-project/Ra-01_Handy_Neo"
-status: "in_progress"
+status: "completed"
 ---
 
 ## Overview
@@ -63,18 +63,33 @@ LoRaハンディが持つ機能を以下に示します。
   - C++
 - KiCad
 - JLCPCB
+- Autodesk Fusion
+- 3Dプリンタ
 - 電子工作
 
 ## Outcome
 以下のようにはんだづけを行い、無事期待通りの機能の動作確認が完了しました。特にLoRaの受信データがきちんと現在時刻とともにディスプレイに表示できた時はとても嬉しかったです。自身一人で本格的な基板設計をするのは初めての機会だったので、特に感動しました。
 
 <figure>
+    <img src = "lora-handy-proto.jpg" style = "width: 60%">
+    <figcaption>LoRaハンディが動作する様子</figcaption>
+</figure>
+
+そして、基板を保護し、デザイン性を高めるために、Autodesk Fusionを用いたケースの設計を行い、3Dプリンタで出力しました。ケースを設計するにあたって、
+- 片手で持てるサイズ感である
+- 使い方が分かりやすい
+- 移動運用しやすい
+
+ような通信機にすることを心がけました。
+
+<figure>
+    <img src = "fusion.png" style = "width: 60%">
+    <figcaption>Autodesk Fusionを用いて、ケースを設計する様子</figcaption>
+</figure>
+
+<figure>
     <img src = "lora-handy.jpg" style = "width: 60%">
     <figcaption>実際に完成したLoRaハンディ</figcaption>
 </figure>
 
-まだ、LoRaハンディは完成には至っておらず、以下のような改善点があり、それぞれに改善策を設けました。これらを可能な限り早く実現させたいと考えています。
-- 基板剥き出しのため、持ち運びづらい
-  - **3DCADと3Dプリンタで専用のケースを作成し、電卓のような見た目にする**
-- 受信したことに気づきづらい
-  - **受信時にブザー音が鳴るようにハードウェア・ソフトウェアを改修する**
+これによって、プロジェクトの通信系メンバからも「使いやすい」という評価をいただきました。これからはプロジェクト内でLoRaハンディを用いた実験を進めるとともに、法的基準を満たすことによって実際に多くの人が使うことができるようにしていきたいと考えています。

@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Categories on Welcome to k42uma&#39;s Portfolio!</title>
-    <link>http://localhost:1313/categories/</link>
-    <description>Recent content in Categories on Welcome to k42uma&#39;s Portfolio!</description>
-    <generator>Hugo</generator>
-    <language>ja-JP</language>
-    <lastBuildDate>Wed, 27 May 2026 14:30:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/categories/projects/</link>
-      <pubDate>Wed, 27 May 2026 14:30:00 +0800</pubDate>
-      <guid>http://localhost:1313/categories/projects/</guid>
-      <description></description>
-    </item>
-  </channel>
+	<channel>
+		<title>Categories on Welcome to k42uma&#39;s Portfolio!</title>
+		<link>http://localhost:1313/categories/</link>
+		<description>Recent content in Categories on Welcome to k42uma&#39;s Portfolio!</description>
+		<generator>Hugo</generator>
+		<language>ja-JP</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 27 May 2026 14:30:00 +0800</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Projects</title>
+				<link>http://localhost:1313/categories/projects/</link>
+				<pubDate>Wed, 27 May 2026 14:30:00 +0800</pubDate>
+				<guid>http://localhost:1313/categories/projects/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>

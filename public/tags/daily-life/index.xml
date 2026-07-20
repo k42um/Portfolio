@@ -1,40 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Daily Life on Welcome to k42uma&#39;s Portfolio!</title>
-    <link>http://localhost:1313/tags/daily-life/</link>
-    <description>Recent content in Daily Life on Welcome to k42uma&#39;s Portfolio!</description>
-    <generator>Hugo</generator>
-    <language>ja-JP</language>
-    <lastBuildDate>Mon, 13 Apr 2026 14:30:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/daily-life/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>履修情報から時間割をカレンダーに追加するツールの開発</title>
-      <link>http://localhost:1313/projects/twins-to-calendar/</link>
-      <pubDate>Mon, 13 Apr 2026 14:30:00 +0800</pubDate>
-      <guid>http://localhost:1313/projects/twins-to-calendar/</guid>
-      <description>筑波大学の履修登録ツールTwinsの情報を元に、カレンダーアプリへ時間割情報を登録するChrome拡張機能を開発しました。</description>
-    </item>
-    <item>
-      <title>マウスの自作</title>
-      <link>http://localhost:1313/projects/mouse-diy/</link>
-      <pubDate>Wed, 18 Mar 2026 14:30:00 +0800</pubDate>
-      <guid>http://localhost:1313/projects/mouse-diy/</guid>
-      <description>パソコンで使用するマウスを自作しています。</description>
-    </item>
-    <item>
-      <title>Alexaから温度・湿度を確認するシステムの開発</title>
-      <link>http://localhost:1313/projects/alexa-temp-humid/</link>
-      <pubDate>Sun, 18 Jan 2026 14:30:00 +0800</pubDate>
-      <guid>http://localhost:1313/projects/alexa-temp-humid/</guid>
-      <description>AlexaやWEBページから部屋の温度や湿度を取得するためのシステムを開発しました。</description>
-    </item>
-    <item>
-      <title>電子ペーパーに天気予報を表示するシステムの開発</title>
-      <link>http://localhost:1313/projects/weather-wpaper/</link>
-      <pubDate>Sun, 18 Jan 2026 14:30:00 +0800</pubDate>
-      <guid>http://localhost:1313/projects/weather-wpaper/</guid>
-      <description>電子ペーパーに天気予報や予想気温を表示するためのシステムを開発しました。</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Daily Life on Welcome to k42uma&#39;s Portfolio!</title>
+		<link>http://localhost:1313/tags/daily-life/</link>
+		<description>Recent content in Daily Life on Welcome to k42uma&#39;s Portfolio!</description>
+		<generator>Hugo</generator>
+		<language>ja-JP</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 13 Apr 2026 14:30:00 +0800</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/daily-life/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>履修情報から時間割をカレンダーに追加するツールの開発</title>
+				<link>http://localhost:1313/projects/twins-to-calendar/</link>
+				<pubDate>Mon, 13 Apr 2026 14:30:00 +0800</pubDate>
+				<guid>http://localhost:1313/projects/twins-to-calendar/</guid>
+				<description>筑波大学の履修登録ツールTwinsの情報を元に、カレンダーアプリへ時間割情報を登録するChrome拡張機能を開発しました。</description>
+			</item>
+			<item>
+				<title>マウスの自作</title>
+				<link>http://localhost:1313/projects/mouse-diy/</link>
+				<pubDate>Wed, 18 Mar 2026 14:30:00 +0800</pubDate>
+				<guid>http://localhost:1313/projects/mouse-diy/</guid>
+				<description>パソコンで使用するマウスを自作しています。</description>
+			</item>
+			<item>
+				<title>Alexaから温度・湿度を確認するシステムの開発</title>
+				<link>http://localhost:1313/projects/alexa-temp-humid/</link>
+				<pubDate>Sun, 18 Jan 2026 14:30:00 +0800</pubDate>
+				<guid>http://localhost:1313/projects/alexa-temp-humid/</guid>
+				<description>AlexaやWEBページから部屋の温度や湿度を取得するためのシステムを開発しました。</description>
+			</item>
+			<item>
+				<title>電子ペーパーに天気予報を表示するシステムの開発</title>
+				<link>http://localhost:1313/projects/weather-wpaper/</link>
+				<pubDate>Sun, 18 Jan 2026 14:30:00 +0800</pubDate>
+				<guid>http://localhost:1313/projects/weather-wpaper/</guid>
+				<description>電子ペーパーに天気予報や予想気温を表示するためのシステムを開発しました。</description>
+			</item>
+	</channel>
 </rss>
